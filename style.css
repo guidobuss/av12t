@@ -1,3 +1,6 @@
-body{
+.cabecalho{
     background-color: rgb(148, 193, 219);
+    color:white;
+    display:flex;
+    justify-content: space-around;
 }
